@@ -1,3 +1,3 @@
-# Haskell Docs
+# Haskell Docs (WIP)
 
-Community updated docs with examples
+Community-powered docs with examples for Haskell programming language
